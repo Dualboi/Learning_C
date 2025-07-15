@@ -1,4 +1,4 @@
-Learning_C
+# Learning_C
 
 #
 This repository contains all files related to my journey in learning the basic principles of C programming.
