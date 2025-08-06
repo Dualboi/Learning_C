@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/sonny bell/Cloned repos/Learning_C/Hour_Three",
-      "program": "c:/Users/sonny bell/Cloned repos/Learning_C/Hour_Three/build/Debug/outDebug",
+      "cwd": "c:/Users/sonny bell/Cloned repos/Learning_C/Hour_Four",
+      "program": "c:/Users/sonny bell/Cloned repos/Learning_C/Hour_Four/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
